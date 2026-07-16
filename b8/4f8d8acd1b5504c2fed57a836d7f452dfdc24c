@@ -1,0 +1,25 @@
+tests/src/rules/no-extraneous-dependencies.js
+  s_972e862be28fd2::t_59fe74e63848ca 159-175
+tests/src/core/importType.js
+  s_972e862be28fd2::t_59fe74e63848ca 165-208
+README.md
+  s_972e862be28fd2::t_59fe74e63848ca 407-421
+src/core/importType.js
+  s_972e862be28fd2::t_59fe74e63848ca 4,37-39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "b84f8d8acd1b5504c2fed57a836d7f452dfdc24c",
+  "prompts": {},
+  "sessions": {
+    "s_972e862be28fd2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "72f6ee51-2f9e-4eaa-87b3-0863e257c438",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Andy Aragon <hi@andymai.com>"
+    }
+  }
+}
