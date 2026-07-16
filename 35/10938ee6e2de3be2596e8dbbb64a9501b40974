@@ -1,0 +1,21 @@
+tests/src/core/importType.js
+  s_972e862be28fd2::t_486adc4c9a8026 195-206
+src/core/importType.js
+  s_972e862be28fd2::t_dd03d805076a3c 39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "3510938ee6e2de3be2596e8dbbb64a9501b40974",
+  "prompts": {},
+  "sessions": {
+    "s_972e862be28fd2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "72f6ee51-2f9e-4eaa-87b3-0863e257c438",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Andy Aragon <hi@andymai.com>"
+    }
+  }
+}
