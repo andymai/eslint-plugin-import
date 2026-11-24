@@ -1,0 +1,19 @@
+CHANGELOG.md
+  s_972e862be28fd2::t_af551638b00cf6 1870
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "0a76b9806cbaee957df104803321c0973b4da6fd",
+  "prompts": {},
+  "sessions": {
+    "s_972e862be28fd2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "72f6ee51-2f9e-4eaa-87b3-0863e257c438",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Andy Aragon <hi@andymai.com>"
+    }
+  }
+}
